@@ -1,0 +1,14 @@
+python-dotenv
+langchain-google-genai
+ipykernel
+langchain
+langchain-community
+langchain-core
+bs4
+faiss-cpu
+streamlit
+pypdf
+langchain-huggingface
+langchain-groq
+wikipedia
+arxiv
