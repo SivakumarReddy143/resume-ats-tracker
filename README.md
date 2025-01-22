@@ -17,7 +17,7 @@
     pip install -r requirements.txt
 
 4. excute code
-    - press ctrl ~ to open command prompt
+    - press ctrl ~ to open command prompt in vs code 
 
     - then execute
         
